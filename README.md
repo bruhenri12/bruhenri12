@@ -25,7 +25,7 @@
 	- [Genetic Algorithm for function optimization](https://github.com/MatheusPaixaoG/Function-optimization-with-GA)
 	- [Pacman with Genetic Algorithm](https://github.com/MatheusPaixaoG/Pacman-with-GA)
 - 🥽 Extended Reality:
-  	- [Immersive Mixed Reality experience to visualize changes in the environment](https://github.com/bruhenri12/ambientinator)
+  	- [Immersive Meta Quest 3 MR experience to visualize changes in the environment](https://github.com/bruhenri12/ambientinator): developed using Unity 3D and Meta Quest XR SDK.
 - 😎 Cool projects:
   	- [MIPS CPU using Verilog](https://github.com/bruhenri12/InfraHW_Projeto-Verilog)
 
