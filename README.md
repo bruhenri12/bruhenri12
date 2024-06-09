@@ -18,7 +18,7 @@
 - 🧩 Algorithms:
   	- [RPN Stack Calculator using Java](https://github.com/bruhenri12/RPNStacker-Java)
 - 💻 Web dev:
-	- [Project and Development course back-end](https://github.com/thurcst/projetao-back): back-end development using Docker, Python and Django REST Framework.
+	- [SemGlu, a food gluten presence information app back-end](https://github.com/thurcst/projetao-back): back-end development using Docker, Python and Django REST Framework.
 - 🤖 Artificial Intelligence:
 	- [Avila Bible pattern recognition with multiple Machine Learning models](https://github.com/bruhenri12/Projeto-AM-2022-2)
 	- [8 queens problem with Genetic Algorithm and Evolutive Estrategy](https://github.com/bruhenri12/KillerQueens)
