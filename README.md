@@ -4,7 +4,7 @@
 	<h3>🎓 Computer Science Undergraduate Student @ CIn - UFPE</h3>
 	<h3>📋 Experience:</h3>
 	<div align='center'>
-		<p> 🎮 Game Developer @ <a href="https://www.agilegovernance.org/" target="_blank">Agile Governance Research Lab</a> <b>(2023 - present)</b></p>
+		<p> 🎮 Volunteer Game Developer @ <a href="https://www.agilegovernance.org/" target="_blank">Agile Governance Research Lab</a> <b>(2023 - present)</b></p>
 	</div>
 </div>
 
